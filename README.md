@@ -1,4 +1,4 @@
-# GRU-Dense Neural Network Architecture for Predictive Monitoring of Hyperglycemia and Hypoglycemia ICU Patients
+# GRU-Dense Neural Network Architecture for Predictive Monitoring of Hyperglycemia and Hypoglycemia in ICU Patients
 
 
 ![Description of first image](gru_dense_model_architecture.png)
