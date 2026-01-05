@@ -1,9 +1,9 @@
 # GRU-Dense Neural Network Architecture for Predictive Monitoring of Hyperglycemia and Hypoglycemia in ICU Patients
 
 
-![Description of first image](Gemini_Generated_Model_Arch.png)
+![Description of first image](Images/Gemini_Generated_Model_Arch.png)
 
-![Description of second image](formal_attention_diagram.png)
+![Description of second image](Images/formal_attention_diagram.png)
 
 ---
 
